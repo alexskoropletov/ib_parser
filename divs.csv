@@ -1,0 +1,94 @@
+DividendDetail,Header,DataDiscriminator,Currency,Symbol,Conid,Country,ReportDate,ExDate,Shares,RevenueComponent,QualifiedIndicator,Gross,GrossInBase,GrossInUSD,Withhold,WithholdInBase,WithholdInUSD
+DividendDetail,Data,Summary,USD,ACWX,49954149,US,20201218,20201214,27,,,13.26,13.26,13.26,-1.33,-1.33,-1.33
+DividendDetail,Data,RevenueComponent,USD,ACWX,49954149,US,20201218,20201214,,Ordinary Dividend,Not Qualified,1.57599078,1.57599078,1.57599078,-0.157599078,-0.157599078,-0.157599078
+DividendDetail,Data,RevenueComponent,USD,ACWX,49954149,US,20201218,20201214,,Ordinary Dividend,Qualified - Meets Holding Period,11.68400922,11.68400922,11.68400922,-1.168400922,-1.168400922,-1.168400922
+DividendDetail,Data,Summary,USD,BND,43645828,US,20200806,20200803,14,,,2.22,2.22,2.22,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20200806,20200803,,Ordinary Dividend,Not Qualified,0.27395466,0.27395466,0.27395466,-0.027395466,-0.027395466,-0.027395466
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20200806,20200803,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,1.94604534,1.94604534,1.94604534,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20200904,20200901,17,,,2.6,2.6,2.6,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20200904,20200901,,Ordinary Dividend,Not Qualified,0.319423,0.319423,0.319423,-0.0319423,-0.0319423,-0.0319423
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20200904,20200901,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.280577,2.280577,2.280577,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201006,20201001,17,,,2.55,2.55,2.55,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201006,20201001,,Ordinary Dividend,Not Qualified,0.31928295,0.31928295,0.31928295,-0.031928295,-0.031928295,-0.031928295
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201006,20201001,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.23071705,2.23071705,2.23071705,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201105,20201102,17,,,2.57,2.57,2.57,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201105,20201102,,Ordinary Dividend,Not Qualified,0.32617926,0.32617926,0.32617926,-0.032617926,-0.032617926,-0.032617926
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201105,20201102,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.24382074,2.24382074,2.24382074,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201204,20201201,17,,,2.43,2.43,2.43,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201204,20201201,,Ordinary Dividend,Not Qualified,0.31117608,0.31117608,0.31117608,-0.031117608,-0.031117608,-0.031117608
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201204,20201201,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.11882392,2.11882392,2.11882392,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201229,20201223,17,,,0.63,0.63,0.63,-0.06,-0.06,-0.06
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201229,20201223,,Short Term Capital Gain from RIC or REIT,Not Qualified,0.63,0.63,0.63,-0.063,-0.063,-0.063
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201229,20201223,17,,,1.81,1.81,1.81,0,0,0
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201229,20201223,,Long Term Capital Gain,Not Qualified,1.81,1.81,1.81,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201229,20201223,17,,,2.5,2.5,2.5,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201229,20201223,,Ordinary Dividend,Not Qualified,0.3201475,0.3201475,0.3201475,-0.03201475,-0.03201475,-0.03201475
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201229,20201223,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.1798525,2.1798525,2.1798525,0,0,0
+DividendDetail,Data,Summary,USD,BXMT,127149807,US,20201015,20200929,30,,,18.6,18.6,18.6,-1.86,-1.86,-1.86
+DividendDetail,Data,RevenueComponent,USD,BXMT,127149807,US,20201015,20200929,,Section 199A Dividends,Not Qualified,18.6,18.6,18.6,-1.86,-1.86,-1.86
+DividendDetail,Data,Summary,USD,DIA,73128548,US,20200914,20200821,10,,,6.04,6.04,6.04,-0.6,-0.6,-0.6
+DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20200914,20200821,,Ordinary Dividend,Qualified - Meets Holding Period,6.04,6.04,6.04,-0.604,-0.604,-0.604
+DividendDetail,Data,Summary,USD,DIA,73128548,US,20201013,20200918,10,,,6.67,6.67,6.67,-0.67,-0.67,-0.67
+DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20201013,20200918,,Ordinary Dividend,Qualified - Meets Holding Period,6.67,6.67,6.67,-0.667,-0.667,-0.667
+DividendDetail,Data,Summary,USD,DIA,73128548,US,20201116,20201016,10,,,1.17,1.17,1.17,-0.12,-0.12,-0.12
+DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20201116,20201016,,Ordinary Dividend,Qualified - Meets Holding Period,1.17,1.17,1.17,-0.117,-0.117,-0.117
+DividendDetail,Data,Summary,USD,DIA,73128548,US,20201214,20201120,10,,,6.52,6.52,6.52,-0.65,-0.65,-0.65
+DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20201214,20201120,,Ordinary Dividend,Qualified - Meets Holding Period,6.52,6.52,6.52,-0.652,-0.652,-0.652
+DividendDetail,Data,Summary,USD,DIA,73128548,US,20210111,20201218,10,,,5.87,5.87,5.87,-0.59,-0.59,-0.59
+DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20210111,20201218,,Ordinary Dividend,Qualified - Meets Holding Period,5.87,5.87,5.87,-0.587,-0.587,-0.587
+DividendDetail,Data,Summary,USD,EWA,2586606,US,20201218,20201214,1,,,0.2,0.2,0.2,-0.02,-0.02,-0.02
+DividendDetail,Data,RevenueComponent,USD,EWA,2586606,US,20201218,20201214,,Ordinary Dividend,Qualified - Meets Holding Period,0.2,0.2,0.2,-0.02,-0.02,-0.02
+DividendDetail,Data,Summary,USD,FIVG,355866757,US,20200924,20200922,1,,,0.08,0.08,0.08,-0.01,-0.01,-0.01
+DividendDetail,Data,RevenueComponent,USD,FIVG,355866757,US,20200924,20200922,,Ordinary Dividend,Not Qualified,0.000824,0.000824,0.000824,-8.24E-05,-8.24E-05,-8.24E-05
+DividendDetail,Data,RevenueComponent,USD,FIVG,355866757,US,20200924,20200922,,Ordinary Dividend,Qualified - Meets Holding Period,0.079176,0.079176,0.079176,-0.0079176,-0.0079176,-0.0079176
+DividendDetail,Data,Summary,USD,FIVG,355866757,US,20201231,20201229,50,,,5.02,5.02,5.02,-0.5,-0.5,-0.5
+DividendDetail,Data,RevenueComponent,USD,FIVG,355866757,US,20201231,20201229,,Ordinary Dividend,Not Qualified,0.051706,0.051706,0.051706,-0.0051706,-0.0051706,-0.0051706
+DividendDetail,Data,RevenueComponent,USD,FIVG,355866757,US,20201231,20201229,,Ordinary Dividend,Qualified - Meets Holding Period,4.968294,4.968294,4.968294,-0.4968294,-0.4968294,-0.4968294
+DividendDetail,Data,Summary,USD,FLCH,295156251,US,20201223,20201214,48,,,11.94,11.94,11.94,-1.19,-1.19,-1.19
+DividendDetail,Data,RevenueComponent,USD,FLCH,295156251,US,20201223,20201214,,Ordinary Dividend,Not Qualified,1.86230568,1.86230568,1.86230568,-0.186230568,-0.186230568,-0.186230568
+DividendDetail,Data,RevenueComponent,USD,FLCH,295156251,US,20201223,20201214,,Ordinary Dividend,Qualified - Meets Holding Period,10.07769432,10.07769432,10.07769432,-1.007769432,-1.007769432,-1.007769432
+DividendDetail,Data,Summary,USD,SPG,2009113,US,20210122,20201223,4,,,5.2,5.2,5.2,-0.51,-0.51,-0.51
+DividendDetail,Data,RevenueComponent,USD,SPG,2009113,US,20210122,20201223,,Long Term Capital Gain,Not Qualified,0.122902,0.122902,0.122902,0,0,0
+DividendDetail,Data,RevenueComponent,USD,SPG,2009113,US,20210122,20201223,,Ordinary Dividend,Qualified - Meets Holding Period,0.3966144,0.3966144,0.3966144,-0.03966144,-0.03966144,-0.03966144
+DividendDetail,Data,RevenueComponent,USD,SPG,2009113,US,20210122,20201223,,Unrecaptured 1250 Gain,Not Qualified,0.0142116,0.0142116,0.0142116,0,0,0
+DividendDetail,Data,RevenueComponent,USD,SPG,2009113,US,20210122,20201223,,Section 199A Dividends,Not Qualified,4.666272,4.666272,4.666272,-0.4666272,-0.4666272,-0.4666272
+DividendDetail,Data,Summary,USD,T,37018770,US,20201102,20201008,27,,,14.04,14.04,14.04,-1.4,-1.4,-1.4
+DividendDetail,Data,RevenueComponent,USD,T,37018770,US,20201102,20201008,,Ordinary Dividend,Qualified - Meets Holding Period,14.04,14.04,14.04,-1.404,-1.404,-1.404
+DividendDetail,Data,Summary,USD,VTWO,79020263,US,20200916,20200911,1,,,0.33,0.33,0.33,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,VTWO,79020263,US,20200916,20200911,,Ordinary Dividend,Not Qualified,0.029073,0.029073,0.029073,-0.0029073,-0.0029073,-0.0029073
+DividendDetail,Data,RevenueComponent,USD,VTWO,79020263,US,20200916,20200911,,Ordinary Dividend,Qualified - Meets Holding Period,0.23842467,0.23842467,0.23842467,-0.023842467,-0.023842467,-0.023842467
+DividendDetail,Data,RevenueComponent,USD,VTWO,79020263,US,20200916,20200911,,Section 199A Dividends,Not Qualified,0.06250233,0.06250233,0.06250233,-0.006250233,-0.006250233,-0.006250233
+DividendDetail,Data,Summary,USD,VTWO,79020263,US,20201222,20201217,1,,,0.68,0.68,0.68,-0.07,-0.07,-0.07
+DividendDetail,Data,RevenueComponent,USD,VTWO,79020263,US,20201222,20201217,,Ordinary Dividend,Not Qualified,0.059908,0.059908,0.059908,-0.0059908,-0.0059908,-0.0059908
+DividendDetail,Data,RevenueComponent,USD,VTWO,79020263,US,20201222,20201217,,Ordinary Dividend,Qualified - Meets Holding Period,0.4913,0.4913,0.4913,-0.04913,-0.04913,-0.04913
+DividendDetail,Data,RevenueComponent,USD,VTWO,79020263,US,20201222,20201217,,Section 199A Dividends,Not Qualified,0.128792,0.128792,0.128792,-0.0128792,-0.0128792,-0.0128792
+DividendDetail,Total,,USD,,,,,,,,,112.93,112.93,112.93,-9.79,-9.79,-9.79
+PILDetail,Header,DataDiscriminator,Currency,Symbol,Conid,Country,ReportDate,ExDate,Shares,RevenueComponent,Gross,GrossInBase,GrossInUSD,Withhold,WithholdInBase,WithholdInUSD,
+PILDetail,Data,Summary,USD,ACWX,49954149,US,20201218,20201214,4,,1.96,1.96,1.96,-0.2,-0.2,-0.2,
+PILDetail,Data,RevenueComponent,USD,ACWX,49954149,US,20201218,20201214,,Ordinary Dividend,0.23295188,0.23295188,0.23295188,-0.023295188,-0.023295188,-0.023295188,
+PILDetail,Data,RevenueComponent,USD,ACWX,49954149,US,20201218,20201214,,Ordinary Dividend,1.72704812,1.72704812,1.72704812,-0.172704812,-0.172704812,-0.172704812,
+PILDetail,Data,Summary,USD,EWA,2586606,US,20201218,20201214,82,,16.44,16.44,16.44,-1.64,-1.64,-1.64,
+PILDetail,Data,RevenueComponent,USD,EWA,2586606,US,20201218,20201214,,Ordinary Dividend,16.44,16.44,16.44,-1.644,-1.644,-1.644,
+PILDetail,Data,Summary,USD,EWG,2586603,US,20201221,20201214,58,,22.44,22.44,22.44,-2.24,-2.24,-2.24,
+PILDetail,Data,RevenueComponent,USD,EWG,2586603,US,20201221,20201214,,Ordinary Dividend,22.44,22.44,22.44,-2.244,-2.244,-2.244,
+PILDetail,Data,Summary,USD,FIVG,355866757,US,20200924,20200922,49,,4,4,4,-0.4,-0.4,-0.4,
+PILDetail,Data,RevenueComponent,USD,FIVG,355866757,US,20200924,20200922,,Ordinary Dividend,0.0412,0.0412,0.0412,-0.00412,-0.00412,-0.00412,
+PILDetail,Data,RevenueComponent,USD,FIVG,355866757,US,20200924,20200922,,Ordinary Dividend,3.9588,3.9588,3.9588,-0.39588,-0.39588,-0.39588,
+PILDetail,Data,Summary,USD,SPY,756733,US,20201030,20200918,10,,13.39,13.39,13.39,-1.34,-1.34,-1.34,
+PILDetail,Data,RevenueComponent,USD,SPY,756733,US,20201030,20200918,,Ordinary Dividend,13.39,13.39,13.39,-1.339,-1.339,-1.339,
+PILDetail,Data,Summary,USD,SPY,756733,US,20210129,20201218,10,,15.8,15.8,15.8,-1.58,-1.58,-1.58,
+PILDetail,Data,RevenueComponent,USD,SPY,756733,US,20210129,20201218,,Ordinary Dividend,15.8,15.8,15.8,-1.58,-1.58,-1.58,
+PILDetail,Total,,USD,,,,,,,,74.03,74.03,74.03,-7.4,-7.4,-7.4,
+DividendRevenueSummary,Header,RevenueType,TotalInBase,TotalInUSD,,,,,,,,,,,,,
+DividendRevenueSummary,Data,Total Ordinary Dividends,110.9828864,110.9828864,,,,,,,,,,,,,
+DividendRevenueSummary,Data,Total non-US Ordinary Dividends,0,0,,,,,,,,,,,,,
+DividendRevenueSummary,Data,US Tax Paid,17.19,17.19,,,,,,,,,,,,,
+DividendRevenueSummary,Data,Non-US Tax Paid,0,0,,,,,,,,,,,,,
+DividendRevenueSummary,Data,Long-Term Capital Gain Distributions,1.9471136,1.9471136,,,,,,,,,,,,,
+DividendRevenueSummary,Data,Unrecaptured 1250 Gains,0.0142116,0.0142116,,,,,,,,,,,,,
+DividendRevenueSummary,Data,Return of Capital Distributions,0,0,,,,,,,,,,,,,
+DividendRevenueSummary,Data,Partnership Distributions (PTP),0,0,,,,,,,,,,,,,
+DividendRevenueSummary,Data,Total Payments in Lieu Received,74.03,74.03,,,,,,,,,,,,,
+DividendSummaryByCountry,Header,CountryCode,Country,TotalDividendsInBase,TotalPILReceivedInBase,TotalTaxWithholdingInBase,,,,,,,,,,,
+DividendSummaryByCountry,Data,US,UNITED STATES,110.9828864,74.03,17.19,,,,,,,,,,,
+DividendSummaryByCountry,Total,,,110.9828864,74.03,17.19,,,,,,,,,,,
