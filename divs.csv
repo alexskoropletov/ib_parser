@@ -31,6 +31,38 @@ DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20200914,20200821,,Ordi
 DividendDetail,Data,Summary,USD,DIA,73128548,US,20201013,20200918,10,,,6.67,6.67,6.67,-0.67,-0.67,-0.67
 DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20201013,20200918,,Ordinary Dividend,Qualified - Meets Holding Period,6.67,6.67,6.67,-0.667,-0.667,-0.667
 DividendDetail,Data,Summary,USD,DIA,73128548,US,20201116,20201016,10,,,1.17,1.17,1.17,-0.12,-0.12,-0.12
+DividendDetail,Data,Summary,USD,ACWX,49954149,US,20201218,20201214,27,,,13.26,13.26,13.26,-1.33,-1.33,-1.33
+DividendDetail,Data,RevenueComponent,USD,ACWX,49954149,US,20201218,20201214,,Ordinary Dividend,Not Qualified,1.57599078,1.57599078,1.57599078,-0.157599078,-0.157599078,-0.157599078
+DividendDetail,Data,RevenueComponent,USD,ACWX,49954149,US,20201218,20201214,,Ordinary Dividend,Qualified - Meets Holding Period,11.68400922,11.68400922,11.68400922,-1.168400922,-1.168400922,-1.168400922
+DividendDetail,Data,Summary,USD,BND,43645828,US,20200806,20200803,14,,,2.22,2.22,2.22,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20200806,20200803,,Ordinary Dividend,Not Qualified,0.27395466,0.27395466,0.27395466,-0.027395466,-0.027395466,-0.027395466
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20200806,20200803,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,1.94604534,1.94604534,1.94604534,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20200904,20200901,17,,,2.6,2.6,2.6,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20200904,20200901,,Ordinary Dividend,Not Qualified,0.319423,0.319423,0.319423,-0.0319423,-0.0319423,-0.0319423
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20200904,20200901,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.280577,2.280577,2.280577,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201006,20201001,17,,,2.55,2.55,2.55,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201006,20201001,,Ordinary Dividend,Not Qualified,0.31928295,0.31928295,0.31928295,-0.031928295,-0.031928295,-0.031928295
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201006,20201001,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.23071705,2.23071705,2.23071705,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201105,20201102,17,,,2.57,2.57,2.57,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201105,20201102,,Ordinary Dividend,Not Qualified,0.32617926,0.32617926,0.32617926,-0.032617926,-0.032617926,-0.032617926
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201105,20201102,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.24382074,2.24382074,2.24382074,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201204,20201201,17,,,2.43,2.43,2.43,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201204,20201201,,Ordinary Dividend,Not Qualified,0.31117608,0.31117608,0.31117608,-0.031117608,-0.031117608,-0.031117608
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201204,20201201,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.11882392,2.11882392,2.11882392,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201229,20201223,17,,,0.63,0.63,0.63,-0.06,-0.06,-0.06
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201229,20201223,,Short Term Capital Gain from RIC or REIT,Not Qualified,0.63,0.63,0.63,-0.063,-0.063,-0.063
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201229,20201223,17,,,1.81,1.81,1.81,0,0,0
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201229,20201223,,Long Term Capital Gain,Not Qualified,1.81,1.81,1.81,0,0,0
+DividendDetail,Data,Summary,USD,BND,43645828,US,20201229,20201223,17,,,2.5,2.5,2.5,-0.03,-0.03,-0.03
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201229,20201223,,Ordinary Dividend,Not Qualified,0.3201475,0.3201475,0.3201475,-0.03201475,-0.03201475,-0.03201475
+DividendDetail,Data,RevenueComponent,USD,BND,43645828,US,20201229,20201223,,Interest-Related Dividends from a RIC,Qualified - Meets Holding Period,2.1798525,2.1798525,2.1798525,0,0,0
+DividendDetail,Data,Summary,USD,BXMT,127149807,US,20201015,20200929,30,,,18.6,18.6,18.6,-1.86,-1.86,-1.86
+DividendDetail,Data,RevenueComponent,USD,BXMT,127149807,US,20201015,20200929,,Section 199A Dividends,Not Qualified,18.6,18.6,18.6,-1.86,-1.86,-1.86
+DividendDetail,Data,Summary,USD,DIA,73128548,US,20200914,20200821,10,,,6.04,6.04,6.04,-0.6,-0.6,-0.6
+DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20200914,20200821,,Ordinary Dividend,Qualified - Meets Holding Period,6.04,6.04,6.04,-0.604,-0.604,-0.604
+DividendDetail,Data,Summary,USD,DIA,73128548,US,20201013,20200918,10,,,6.67,6.67,6.67,-0.67,-0.67,-0.67
+DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20201013,20200918,,Ordinary Dividend,Qualified - Meets Holding Period,6.67,6.67,6.67,-0.667,-0.667,-0.667
+DividendDetail,Data,Summary,USD,DIA,73128548,US,20201116,20201016,10,,,1.17,1.17,1.17,-0.12,-0.12,-0.12
 DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20201116,20201016,,Ordinary Dividend,Qualified - Meets Holding Period,1.17,1.17,1.17,-0.117,-0.117,-0.117
 DividendDetail,Data,Summary,USD,DIA,73128548,US,20201214,20201120,10,,,6.52,6.52,6.52,-0.65,-0.65,-0.65
 DividendDetail,Data,RevenueComponent,USD,DIA,73128548,US,20201214,20201120,,Ordinary Dividend,Qualified - Meets Holding Period,6.52,6.52,6.52,-0.652,-0.652,-0.652
